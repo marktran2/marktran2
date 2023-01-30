@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark 🔱</h1>
-<h3 align="center">An absolute specimen that happens to know how to code.</h3> <br> <br> <h4>Designed & Manufactured in Sydney, Australia</h4>
+<h3 align="center">An absolute specimen that happens to know how to code.</h3> 
+
+<br> <br> 
+
+<h4 align="center">Designed & Manufactured in Sydney, Australia</h4>
 
 - 🔭 I’m currently working on [front-end web development](https://github.com/marktran2/trainee_webdev)
 
