@@ -7,15 +7,15 @@
 
 <img align="right" style="width: 300px; height: auto; border-radius: 10px" src="https://gifdb.com/images/high/nerd-ginger-cat-typing-8308pf65yrgevcln.gif" alt="typing cat with glasses animation">
 
-- 🔭 I’m currently working on [front-end web development](https://github.com/marktran2/trainee_webdev)
+- 🔭 I’m currently working on: [front-end web development](https://github.com/marktran2/trainee_webdev)
 
-- 🌱 I’m currently learning **React.js, Typescript, Python**
+- 🌱 I’m currently learning: **React.js, Typescript, Python**
 
-- 💬 Ask me about **my love for vacuums**
+- 💬 Ask me about: **my love for vacuums**
 
-- 📫 How to reach me **marktran.official@gmail.com**
+- 📫 How to reach me: **marktran.official@gmail.com**
 
-- ⚡ Fun fact **I like to think I'm good at chess**
+- ⚡ Fun fact: **I like to think I'm good at chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
