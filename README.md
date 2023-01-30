@@ -3,9 +3,9 @@
 
 <h4 align="center">🧑‍💻 Designed & Manufactured in Sydney, Australia 🧑‍💻</h4>
 
-<img align="right" style="width: 300px; height: auto; border-radius: 10px" src="https://gifdb.com/images/high/nerd-ginger-cat-typing-8308pf65yrgevcln.gif" alt="typing cat with glasses animation">
-
 <br>
+
+<img align="right" style="width: 300px; height: auto; border-radius: 10px" src="https://gifdb.com/images/high/nerd-ginger-cat-typing-8308pf65yrgevcln.gif" alt="typing cat with glasses animation">
 
 - 🔭 I’m currently working on [front-end web development](https://github.com/marktran2/trainee_webdev)
 
