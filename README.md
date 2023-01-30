@@ -3,6 +3,8 @@
 
 <h4 align="center">🧑‍💻 Designed & Manufactured in Sydney, Australia 🧑‍💻</h4>
 
+<br>
+
 - 🔭 I’m currently working on [front-end web development](https://github.com/marktran2/trainee_webdev)
 
 - 🌱 I’m currently learning **React.js, Typescript, Python**
