@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark 🔱</h1>
+<h1 align="center">Hi 👋 , I'm Mark 🔱</h1>
 <h3 align="center">An absolute specimen that happens to know how to code.</h3> 
 
 <h4 align="center">🧑‍💻 Designed & Manufactured in Sydney, Australia 🧑‍💻</h4>
